@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GestaoFinanceira</string>
+    <string name="form_is_required_error">Este campo deve ser preenchido</string>
+</resources>

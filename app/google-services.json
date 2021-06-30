@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39520652687",
+    "project_id": "gestaofinanceira-unifor",
+    "storage_bucket": "gestaofinanceira-unifor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39520652687:android:8dcb69262201cfd9b6cffa",
+        "android_client_info": {
+          "package_name": "com.example.gestaofinanceira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39520652687-l6keego64vd4846t4bmov499avlno30c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_UICD1M5tLK-wnik9Bzda_6yQIYyqL9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39520652687-l6keego64vd4846t4bmov499avlno30c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
